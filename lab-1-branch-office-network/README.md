@@ -27,4 +27,4 @@ Simulate a branch office network and perform a Day 1 network turn-up, including 
 - Resolution: Corrected the subnet mask and default gateway IP on the PC and re-tested connectivity
 
 ## Outcome
-Successfully brought a simulated branch office network online, verified connectivity, and documented the Day-1 troubleshooting process.
+Successfully brought a simulated branch office network online, verified connectivity, and documented the Day 1 troubleshooting process.
