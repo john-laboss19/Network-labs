@@ -1,4 +1,4 @@
-# Lab 1: Branch Office Network Turn-Up
+# Lab 1: Branch Office Network Turn Up
 
 ## Objective
 Simulate a branch office network and perform a Day 1 network turn-up, including IP configuration and connectivity testing.
