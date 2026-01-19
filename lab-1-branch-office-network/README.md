@@ -19,7 +19,7 @@ Simulate a branch office network and perform a Day 1 network turn-up, including 
 4. Verified connectivity using ping
 5. Troubleshot misconfigured IP settings
 
-## Troubleshooting Example
+## Troubleshooting
 - Issue: PC could not reach the default gateway
 - Resolution: Corrected subnet mask and gateway IP
 
