@@ -28,3 +28,12 @@ Simulate a branch office network and perform a Day 1 network turn-up, including 
 
 ## Outcome
 Successfully brought a simulated branch office network online, verified connectivity, and documented the Day 1 troubleshooting process.
+
+## Router Configuration (CLI)
+```txt
+enable
+configure terminal
+interface g0/0
+ip address 192.168.1.1 255.255.255.0
+no shutdown
+exit
