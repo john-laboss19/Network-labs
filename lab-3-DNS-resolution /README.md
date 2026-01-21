@@ -45,7 +45,7 @@ configure terminal
 ip dhcp pool BRANCH-LAN
 no dns-server 8.8.8.8
 dns-server 192.168.1.10
-end
+end`
 
 
 ## Verification Commands
