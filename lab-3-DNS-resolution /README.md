@@ -18,7 +18,7 @@ Simulate a network issue where connectivity works, but applications fail due to 
 1. Reused the existing branch office topology from Lab 2
 2. Added a DNS server and configured it with a static IP
 3. Created an A record on the DNS server for name resolution
-4. Updated the DHCP configuration on the router to assign the DNS server '192.168.1.10' to clients 
+4. Updated the DHCP configuration on the router to assign the DNS server `192.168.1.10` to clients 
 5. Renewed DHCP leases on both PCs
 6. Verified DNS resolution using `nslookup`
 7. Verified connectivity using `ping`
