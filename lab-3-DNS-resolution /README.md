@@ -48,7 +48,6 @@ dns-server 192.168.1.10
 end
 
 
-
 ## Verification Commands
 ```txt
 ipconfig /all
