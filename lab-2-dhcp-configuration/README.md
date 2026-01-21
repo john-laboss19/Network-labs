@@ -23,7 +23,7 @@ Automatically assign IP addresses to multiple client PCs during a site turn-up a
 7. Restored DHCP configuration and re-verified connectivity
 
 ## Troubleshooting Example
-- Issue: PCs failed to receive valid IP addresses and showed 169.254.x.x
+- Issue: PCs failed to receive valid IP addresses and showed APIPA address 169.254.176.35
 - Cause: DHCP scope removed or misconfigured on the router
 - Resolution: Recreated the DHCP pool, renewed DHCP on both PCs, and re-tested connectivity
 
