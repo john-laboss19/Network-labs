@@ -12,7 +12,7 @@ Simulate a network issue where connectivity works, but applications fail due to 
 
 ## Tools Used
 - Cisco Packet Tracer
-- Command Prompt (`ping`, `nslookup`)
+- Commands (`ping`, `nslookup`)
 
 ## Steps Performed
 1. Reused the existing branch office topology from Lab 2
@@ -36,6 +36,7 @@ Simulate a network issue where connectivity works, but applications fail due to 
   - Name: `google.com`
   - Type: A
   - Address: `192.168.1.1`
+    
 ## Router DHCP Configuration for DNS Assignment
 ```txt
 enable
