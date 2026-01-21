@@ -37,17 +37,6 @@ Simulate a network issue where connectivity works, but applications fail due to 
   - Type: A
   - Address: `192.168.1.1`
 
-
-## Router DHCP Configuration for DNS Assignment
-```txt
-enable
-configure terminal
-ip dhcp pool BRANCH-LAN
-no dns-server 8.8.8.8
-dns-server 192.168.1.10
-end`
-
-
 ## Verification Commands
 ```txt
 ipconfig /all
