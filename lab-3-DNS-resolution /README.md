@@ -38,7 +38,6 @@ Simulate a network issue where connectivity works, but applications fail due to 
   - Address: `192.168.1.1`
 
 ## Verification Commands
-```txt
-ipconfig /all
-nslookup google.com
-ping google.com
+`ipconfig /all`
+`nslookup google.com`
+`ping google.com`
