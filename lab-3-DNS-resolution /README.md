@@ -26,9 +26,9 @@ Simulate a network issue where connectivity works, but applications fail due to 
 9. Restored DNS service and re-verified name resolution and connectivity
 
 ## Troubleshooting 
-- **Issue:** Could reach the gateway but could not access websites by name, 'google.com'
+- **Issue:** Could reach the gateway but could not access websites by name, `google.com`
 - **Cause:** DNS service disabled
-- **Resolution:** Re-enabled DNS service, verified A record, and confirmed resolution using `nslookup` and 'ping'
+- **Resolution:** Re-enabled DNS service, verified A record, and confirmed resolution using `nslookup` and `ping`
 
 ## DNS Configuration
 - DNS Server IP: `192.168.1.10`
