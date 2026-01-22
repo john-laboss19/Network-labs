@@ -1,2 +1,2 @@
 # Network-labs
-Hands-on networking and SD-WAN labs for Network Activation role
+Hands on networking labs for Network Activation role
